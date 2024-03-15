@@ -89,6 +89,7 @@ public class MultidimentsionalArray {
 			output1[1][j]=table2[j];
 		}
 
+		int[] a = {10};
 		System.out.println(output1);
 		for(int[] value:output1)
 		{
